@@ -1,0 +1,47 @@
+.colunaE {
+    height: 100vh;
+    background-color: #2962ff;
+    }
+
+img {
+    border-radius: 50%;
+}
+
+.enunciadoE {
+    text-align: center;
+    color: white;
+}
+
+#enunciadoE {
+font-size: 2em;
+}
+
+.coluna.D {
+    height: 100vh;
+}
+
+.enunciadoD {
+    text-align: center;
+    padding-top: 10px;
+}
+
+body {
+    overflow: hidden;
+}
+
+
+.divisor {
+    margin-top: 70px;
+    height: 1.5px;
+    width: 100%;
+    content: '';
+    background-color: black;
+    display: block;
+}
+
+fieldset {
+    text-align: center;
+    width: 65%;
+    margin: auto;
+    border-style: hidden;
+}
